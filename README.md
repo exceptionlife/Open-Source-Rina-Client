@@ -1,11 +1,8 @@
 # SA-MP Rina Client - Patcher
 
-Bu uygulama Rina Roleplay SA-MP sunucusu için geliştirilmiştir. İçerideki kodları inceleyebilir ve neler olduğunu görebilirsiniz, ayrıca eğer bir geliştiriciyseniz ve özellik katmak istiyorsanız kullanabilirsiniz.
+Bu uygulama Rina Roleplay SA-MP sunucusu için geliştirilmiştir. İçerideki kodları inceleyebilir ve neler olduğunu görebilirsiniz, sadece inceleyebilmeniz amacıyla buraya koyulmuştur. Eğer bir geliştiriciyseniz ve özellik katmak istiyorsanız bize bildirebilirsiniz.
 
-Kopyalanması veya çoğaltılması, farklı sunucularda kullanılması yasaklanmıştır.
-Bu proje Rina Roleplay SA-MP sunucusu için geliştirilmiştir.
-
-
+Kopyalanması veya çoğaltılması, farklı sunucularda kullanılması yasaktır.
 
 ## Optimizasyon
 
@@ -14,10 +11,11 @@ Multithreading kullanarak geliştirildi.
   
 ## Özellikler
 
-- SAMP Başlatıcı
+- SA:MP Başlatıcı
+- Patcher
 - Discord Rich Presence
 - Sunucu Durumu İstatistikler
 - Chatlog Kaydedici
 - Sunucu Kısayolları
 - Teamspeak 3 Black List Fix
-  
+- Kendi kendini güncelleyebilme
