@@ -18,4 +18,5 @@ Multithreading kullanarak geliştirildi.
 - Chatlog Kaydedici
 - Sunucu Kısayolları
 - Teamspeak 3 Black List Fix
+- Cache IP değişikliği koruması
 - Kendi kendini güncelleyebilme
